@@ -1,0 +1,68 @@
+.container-todo{
+    background-color: #013542;
+    color: aliceblue;
+    margin: 5em auto;
+    border-radius: 10px;
+    width: 50vw;
+    padding: 15px;
+    
+}
+
+.header{
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+.task-container{
+    background-color: #013542;
+    padding: 0.5em;
+    border-radius: 1em;
+    border: 2px solid aliceblue;
+}
+
+.input{
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+    background-color: aliceblue;
+    border: 1px;
+    border-radius: 1em;
+    padding: 0.5em;
+    margin: 1em;
+    width: 80%;
+}
+
+.add-button{
+    height: 2em;
+    width: 4em;
+    border-radius: 5px;
+    font-size: 1em;
+    margin: 2px;
+    padding: 0px 2px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    background-color: aliceblue;
+}
+
+.task-delete-btn{
+border-radius: 5px;
+margin: 0px 2px;
+padding: 3px 5px;
+border: none;
+cursor: pointer;
+color: black;
+float: right;
+}
+
+.task-list{
+    font-size: 1.25 em;
+    font-weight: bold;
+    font-style: oblique;
+    border: 1px solid aliceblue;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 0.5em;
+}
